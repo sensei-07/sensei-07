@@ -30,8 +30,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sensei-07/sensei-07/output/snake.svg" alt="Snake animation" />
-
-###
