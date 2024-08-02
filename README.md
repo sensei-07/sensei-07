@@ -1,29 +1,20 @@
-<!-- Profile Banner -->
-![osu! Banner](https://your-image-url.com/banner.png)
+# 🎮 Slowpoke1078's GitHub Profile
 
-<!-- Profile Info -->
-# 🎮 Slowpoke1078
-🇻🇳 Vietnam
+![Profile Banner](link-to-your-banner-image) <!-- Optional -->
 
-Welcome to my osu!-themed GitHub profile! I love rhythm games and enjoy coding in my free time. Feel free to explore my repositories and projects.
+## 🏆 osu! Profile
 
-<!-- osu!-styled Stats -->
-## My GitHub Stats
+- **Player Name**: Slowpoke1078
+- **osu! Profile**: [Slowpoke1078](https://osu.ppy.sh/users/36395414)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slowpoke1078&show_icons=true&theme=radical)
+## 📈 About Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slowpoke1078&layout=compact&theme=radical)
+Hi there! I'm Slowpoke1078, and this is my GitHub profile. I'm currently working on various projects and exploring new technologies. Check back later for updates on my work!
 
-## Medals
+## 📬 Contact
 
-![Medals](https://img.shields.io/badge/medals-34-brightgreen?style=for-the-badge)
+- **Email**: [cemonw7@gmail.com](mailto:cemonw7@gmail.com)
 
-<!-- osu! Links -->
-## Let's Connect
+---
 
-- [osu! Profile](https://osu.ppy.sh/users/YourOsuID)
-- [Twitter](https://twitter.com/YourTwitter)
-- [LinkedIn](https://www.linkedin.com/in/YourLinkedIn)
-
-<!-- Profile Footer -->
-![osu! Footer](https://your-image-url.com/footer.png)
+*Feel free to reach out if you have any questions or just want to connect!*
