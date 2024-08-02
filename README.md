@@ -1,6 +1,6 @@
-# 🎮 Slowpoke1078's GitHub Profile
+![Pink Header](https://via.placeholder.com/1200x300/ff69b4/ffffff?text=Slowpoke1078's+GitHub+Profile) <!-- Link to your pink background image -->
 
-![Profile Banner](link-to-your-banner-image) <!-- Optional -->
+# 🎮 Slowpoke1078's GitHub Profile
 
 ## 🏆 osu! Profile
 
@@ -11,10 +11,6 @@
 
 Hi there! I'm Slowpoke1078, and this is my GitHub profile. I'm currently working on various projects and exploring new technologies. Check back later for updates on my work!
 
-## 🌟 Fun Fact
-
-- **Favorite Color**: Pink 💖
-
 ## 📬 Contact
 
 - **Email**: [cemonw7@gmail.com](mailto:cemonw7@gmail.com)
@@ -23,4 +19,4 @@ Hi there! I'm Slowpoke1078, and this is my GitHub profile. I'm currently working
 
 *Feel free to reach out if you have any questions or just want to connect!*
 
-![Pink Footer](https://via.placeholder.com/800x50/ff69b4/ffffff?text=Thanks+for+visiting!) <!-- Optional -->
+![Pink Footer](https://via.placeholder.com/1200x50/ff69b4/ffffff?text=Thanks+for+visiting!) <!-- Optional -->
