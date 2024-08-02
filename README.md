@@ -29,3 +29,9 @@
 <p align="left">Welcome to my profile! I'm Slowpoke1078. I love rhythm games and enjoy playing osu! in my free time. Feel free to check out my progress and join me in the fun!</p>
 
 ###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/sensei-07/sensei-07/output/snake.svg" alt="Snake animation" />
+
+###
