@@ -11,6 +11,11 @@
 
 Hi there! I'm Slowpoke1078, and this is my GitHub profile. I'm currently working on various projects and exploring new technologies. Check back later for updates on my work!
 
+### 🎵 Music
+[![Music](https://img.youtube.com/vi/19y8YTbvri8/hqdefault.jpg)](https://www.youtube.com/watch?v=19y8YTbvri8)
+
+*Click the image to watch the music video.*
+
 ### 🛠️ Languages I'm Learning
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
