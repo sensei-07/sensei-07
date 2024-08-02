@@ -1,4 +1,5 @@
-![Pink Header](https://via.placeholder.com/1200x300/ff69b4/ffffff?text=Slowpoke1078's+GitHub+Profile) <!-- Link to your pink background image -->
+<!-- Banner with pink background -->
+![Profile Banner](https://via.placeholder.com/1200x300/ff69b4/ffffff?text=Slowpoke1078's+GitHub+Profile)
 
 # 🎮 Slowpoke1078's GitHub Profile
 
@@ -18,5 +19,3 @@ Hi there! I'm Slowpoke1078, and this is my GitHub profile. I'm currently working
 ---
 
 *Feel free to reach out if you have any questions or just want to connect!*
-
-![Pink Footer](https://via.placeholder.com/1200x50/ff69b4/ffffff?text=Thanks+for+visiting!) <!-- Optional -->
